@@ -45,4 +45,4 @@ fi
 echo "\n-----> Building the site"
 cd $BUILD_DIR
 mkdir -p static | indent
-./hugo -t hugo-material-lite| indent
+./hugo -t hugo-material-lite | indent
